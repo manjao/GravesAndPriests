@@ -1,0 +1,5 @@
+# ninja log v5
+12	1956	6999293799833167	src/CMakeFiles/my_executable.dir/main.cpp.obj	8c10439ed3418b79
+1971	3183	6999293811863144	src/my_executable.exe	8afe58b2c7f505ef
+28	2544	6999294713405128	src/CMakeFiles/grave.dir/main.cpp.obj	aeafa2455364f350
+2547	3665	6999294724365117	src/grave.exe	3ba67a71b015585c
